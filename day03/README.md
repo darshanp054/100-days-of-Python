@@ -14,6 +14,7 @@
 - [Exercise3](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/exercise3.py)
 - [Exercise4](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/exercise4.py)
 - [Exercise5](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/exercise5.py)
+- [RollerCoaster Eligibility](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/main.py)
 
 ## Treasure Island
 
