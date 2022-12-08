@@ -1,12 +1,17 @@
- # Day 30
-
-Learnt about Errors, Exceptions and saving JSON Data in Python. Also, added a search functionality to the Password Manager GUI App with Tkinter.
+# Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
+## Concepts Practised
+- Catching Exceptions: The try catch except finally Pattern
+- Raising Exceptions
+- IndexError Handling
+- KeyError Handling
+- Write, read and update JSON data in the Password Manager
+## Password Manager 2.0
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-30-1-exercise#main.py
-- https://repl.it/@lenargasimov/day-30-2-exercise#main.py
+- [Exercise1](https://github.com/darshannn10/100-days-of-Python/blob/main/day30/challenge1.py)
+- [Exercise2](https://github.com/darshannn10/100-days-of-Python/blob/main/day30/challenge2.py)
 
-## Password Manager 2
+## [Password Manager 2](https://github.com/darshannn10/100-days-of-Python/tree/main/day30/password-manager)
 
 ![password manager](password_manager.gif)
