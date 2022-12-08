@@ -1,16 +1,20 @@
-# Day 8
+# Day 8 - Function Parameters & Caesar Cipher
+## Concepts Practised
+- Functions with Inputs
+- Positional vs. Keyword Arguments
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-8-start#main.py
-- https://repl.it/@lenargasimov/day-8-1-exercise#main.py
-- https://repl.it/@lenargasimov/day-8-2-exercise#main.py
+- [Exercise1](https://github.com/darshannn10/100-days-of-Python/blob/main/day08/exercise1.py)
+- [Exercise2](https://github.com/darshannn10/100-days-of-Python/blob/main/day08/exercise2.py)
+- [Exercise3](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/main.py)
 
 ## Caesar Cipher
 
-- https://repl.it/@lenargasimov/caesar-cipher-1-start#main.py
-- https://repl.it/@lenargasimov/caesar-cipher-2-start#main.py
-- https://repl.it/@lenargasimov/caesar-cipher-3-start#main.py
-- https://repl.it/@lenargasimov/caesar-cipher-4-start
+- [Caesar_Cipher-1](https://github.com/darshannn10/100-days-of-Python/blob/main/day08/caesar_cipher1.py)
+- [Caesar_Cipher-2](https://github.com/darshannn10/100-days-of-Python/blob/main/day08/caesar_cipher2.py)
+- [Caesar_Cipher-3](https://github.com/darshannn10/100-days-of-Python/blob/main/day08/caesar_cipher3.py)
+- [Caesar_Cipher-4](https://github.com/darshannn10/100-days-of-Python/blob/main/day08/caesar_cipher4.py)
 
+### [Ceasar-Cipher](https://github.com/darshannn10/100-days-of-Python/blob/main/day08/caesar_cipher.py)
 ![caesar cipher](caesar_cipher.gif)
