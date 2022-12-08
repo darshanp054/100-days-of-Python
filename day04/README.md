@@ -1,14 +1,18 @@
 # Day 4 - Randomisation and Python Lists
 
+## Concepts Practised
+- Random Module
+- Understanding the Offset and Appending Items to Lists
+- Index Errors and Working with Nested Lists
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-4-1-exercise#main.py
-- https://repl.it/@lenargasimov/day-4-2-exercise#main.py
-- https://repl.it/@lenargasimov/day-4-3-exercise#main.py
+- [Exercise1](https://github.com/darshannn10/100-days-of-Python/blob/main/day04/exercise1.py)
+- [Exercise2](https://github.com/darshannn10/100-days-of-Python/blob/main/day04/exercise2.py)
+- [Exercise3](https://github.com/darshannn10/100-days-of-Python/blob/main/day04/exercise3.py)
 
 ## Rock Paper Scissors
 
 ![rock paper scissors](rock_paper_scissors.gif)
 
-https://repl.it/@lenargasimov/rock-paper-scissors-start#main.py
+### [Rock, Paper, Scissors](https://github.com/darshannn10/100-days-of-Python/blob/main/day04/game.py)
