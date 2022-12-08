@@ -2,13 +2,12 @@
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-1-1-exercise
-- https://repl.it/@lenargasimov/day-1-2-exercise
-- https://repl.it/@lenargasimov/day-1-3-exercise
-- https://repl.it/@lenargasimov/day-1-4-exercise
+- [Exercise1](https://github.com/darshannn10/100-days-of-Python/blob/main/day01/exercise1.py)
+- [Exercise2](https://github.com/darshannn10/100-days-of-Python/blob/main/day01/exercise2.py)
+- [Exercise3](https://github.com/darshannn10/100-days-of-Python/blob/main/day01/exercise3.py)
+- [Exercise4](https://github.com/darshannn10/100-days-of-Python/blob/main/day01/exercise4.py)
 
 ## Band Name Generator
 
 ![band name generator](band_name_generator.gif)
 
-https://repl.it/@lenargasimov/band-name-generator-end
