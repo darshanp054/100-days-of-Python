@@ -1,12 +1,15 @@
-# Day 9
+# Day 9 - Dictionaries, Nesting and the Secret Auction
+## Concepts Practised
+- The Python Dictionary
+- Nesting Lists and Dictionaries
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-9-1-exercise#main.py
-- https://repl.it/@lenargasimov/day-9-2-exercise#main.py
+- [Exercise1](https://github.com/darshannn10/100-days-of-Python/blob/main/day09/exercise1.py)
+- [Exercise2](https://github.com/darshannn10/100-days-of-Python/blob/main/day09/exercise2.py)
 
 ## Secret Auction
 
 ![secret auction](secret_auction.gif)
 
-https://repl.it/@lenargasimov/blind-auction-start#main.py
+### [Secret Auction](https://github.com/darshannn10/100-days-of-Python/blob/main/day09/blind_auction.py)
