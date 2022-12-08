@@ -1,16 +1,23 @@
 # Day 3 - Control Flow and Logical Operators
 
+# Day 3 - Control Flow and Logical Operators
+## Concepts Practised
+- Control Flow with if / else and Conditional Operators
+- Modulo Operator
+- Nested if statements and elif statements
+- Multiple If Statements in Succession
+- Logical Operators
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-3-1-exercise#main.py
-- https://repl.it/@lenargasimov/day-3-2-exercise#main.py
-- https://repl.it/@lenargasimov/day-3-3-exercise#main.py
-- https://repl.it/@lenargasimov/day-3-4-exercise#main.py
-- https://repl.it/@lenargasimov/day-3-5-exercise#main.py
+- [Exercise1](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/exercise1.py)
+- [Exercise2](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/exercise2.py)
+- [Exercise3](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/exercise3.py)
+- [Exercise4](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/exercise4.py)
+- [Exercise5](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/exercise5.py)
 
 ## Treasure Island
 
 ![treasure island](treasure_island.gif)
 
-https://repl.it/@lenargasimov/treasure-island-start#main.py
+- [Treasure Island](https://github.com/darshannn10/100-days-of-Python/blob/main/day03/treasure_island.py)
